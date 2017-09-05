@@ -1,0 +1,6 @@
+/*
+spacing for 'Submit' and 'Cancel' buttons on new posts page.
+ */
+form a {
+    margin-left: 15px;
+}
